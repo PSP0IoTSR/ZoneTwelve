@@ -14,3 +14,4 @@ add package "<b>http://download.labs.mediatek.com/package_mtk_linkit_7697_index.
  - 4.RGB LED
  - 5.Button 控制
  - 純電路控制 LED
+ - 6. LED Bar(Grove)
